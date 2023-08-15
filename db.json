@@ -1,0 +1,12 @@
+{
+    "users": [
+      {
+        "email": "admin@gmail.com",
+        "password": "$2a$10$1/NBEtSJldhytsWmR80NyeeN7xkGNJN1LK3dcDmtHbFkpgb59.DA2",
+        "name": "Anh Son",
+        "Address": "Da nang",
+        "isAdmin": true,
+        "id": 1
+      }
+    ]
+}
